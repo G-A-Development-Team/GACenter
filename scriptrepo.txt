@@ -1,0 +1,18 @@
+[
+  {
+    "name": "agent-bomb-timer",
+    "link": "https://raw.githubusercontent.com/G-A-Development-Team/CS2-Agent-Bomb-Timer/refs/heads/main/bomb-timer.lua",
+    "display_name": "Agentsix1 CS2 Bomb Timer",
+    "subtitle": "https://raw.githubusercontent.com/G-A-Development-Team/CS2-Agent-Bomb-Timer/refs/heads/main/bomb-timer.lua",
+    "icon": "https://raw.githubusercontent.com/G-A-Development-Team/AA-Bomb-Timer/main/bomb3.png",
+    "icon_type": "png"
+  },
+  {
+    "name": "carters-bomb-timer",
+    "link": "https://raw.githubusercontent.com/G-A-Development-Team/cs2-carters-bomb-timer/refs/heads/main/dev.lua",
+    "display_name": "Carters CS2 Bomb Timer",
+    "subtitle": "https://raw.githubusercontent.com/G-A-Development-Team/cs2-carters-bomb-timer/refs/heads/main/dev.lua",
+    "icon": "https://raw.githubusercontent.com/G-A-Development-Team/AA-Bomb-Timer/main/bomb3.png",
+    "icon_type": "png"
+  }
+]
