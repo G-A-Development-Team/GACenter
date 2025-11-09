@@ -1,0 +1,24 @@
+{
+  "weeks": [
+    {
+      "week": "11-4-2025",
+      "title": "[CS2 V6] Simple Bomb Timer",
+      "items": [
+        "Shows when the bomb is being planted",
+        "Shows when the bomb is planted",
+        "Shows the damage the bomb will do to you",
+        "Shows the amount of time left on defuse",
+        "Defuse will turn red if unable to defuse"
+      ]
+    },
+    {
+      "week": "11-4-2025",
+      "title": "[CS2 V6] Carters Advanced Bomb Timer",
+      "items": [
+        "Add: Released Bomb Timer",
+        "Add: Detect Bomb plants",
+        "Add: Detect defusing time etc"
+      ]
+    }
+  ]
+}
