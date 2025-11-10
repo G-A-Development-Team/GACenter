@@ -5,7 +5,8 @@
     "display_name": "Agentsix1 CS2 Bomb Timer",
     "subtitle": "https://raw.githubusercontent.com/G-A-Development-Team/CS2-Agent-Bomb-Timer/refs/heads/main/bomb-timer.lua",
     "icon": "https://raw.githubusercontent.com/G-A-Development-Team/AA-Bomb-Timer/main/bomb3.png",
-    "icon_type": "png"
+    "icon_type": "png",
+    "updates.json": "https://raw.githubusercontent.com/G-A-Development-Team/CS2-Agent-Bomb-Timer/refs/heads/main/updates.json"
   },
   {
     "name": "carters-bomb-timer",
